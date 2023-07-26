@@ -1,2 +1,5 @@
 README.md will be updated
-	vi README.md
+vi README.md
+git add
+git commit -m
+git pull
